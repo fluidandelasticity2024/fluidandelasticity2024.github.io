@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abstract submission
+title: Submission of Abstracts
 permalink: /abstracts/
 ---
 
