@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-## Arcachon, France, 17 – 19 juin 2024
+# Arcachon, France, 17 – 19 juin 2024
 
 ## Objectives
 
