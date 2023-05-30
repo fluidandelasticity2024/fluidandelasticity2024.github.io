@@ -13,7 +13,7 @@ a short walk (2 mn ...) away from the conference center.
 **How to get there** - The city of Arcachon is serviced by a direct train line from Bordeaux (Bordeaux St Jean train station)
 that runs every hour (one way ticket 12.20 €). Train tickets from Bordeaux to Arcachon can be purchased <a href="https://www.ter.sncf.com/nouvelle-aquitaine/trajet-bordeaux-arcachon"> online here </a>.
 
-*From Bordeaux/Mérignac airport to Bordeaux Saint Jean train station* - There are three ways to reach the train station of Bordeaux Siant Jean from the Bordeaux/Mérignac airport.
+*From Bordeaux/Mérignac airport to Bordeaux Saint Jean train station* - There are three ways to reach the train station of Bordeaux Siant Jean from the Bordeaux/Mérignac airport:
 - By tramway
 - By Bus
 - By taxi
