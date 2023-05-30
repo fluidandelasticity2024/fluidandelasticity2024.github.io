@@ -18,6 +18,8 @@ that runs every hour (one way ticket 12.20 €). Train tickets from Bordeaux to 
 - By Bus
 - By taxi
 
+**Hôtels** - 
+
 **Registration** - Registration will take place in the entrance hall of Palais des Congrès and will start
 on Monday 17th of June, 8:30. A nominative badge, a paper version of the scientic programme
 (if requested in advance) and a USB key containing a full electronic version of the booklet (including abstracts), will
