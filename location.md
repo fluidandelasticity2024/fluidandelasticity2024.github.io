@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Location
+title: Location and practical information
 permalink: /location/
 ---
 
