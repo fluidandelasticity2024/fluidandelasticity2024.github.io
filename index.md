@@ -14,7 +14,7 @@ Contributions of work in progress or completed are welcome. The last ‘Fluid & 
 
 ## Topics
 
-Experimental, numerical and theoretical presentations will be given on the following topics:
+Experimental, numerical and theoretical presentations will be given on problems relevant to the following topics:
 
 - Acoustic manipulation/propulsion of particles
 - Biological internal flows
