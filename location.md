@@ -5,6 +5,7 @@ permalink: /location/
 ---
 
 # Location and practical information
+![Arcachon](/assets/img/arcachon.jpg)
 The conference will take place in the Palais des Congrès d'Arcachon located on
 the Bassin d'Arcachon, in the town center of the coastal city of Arcachon, France.
 Participants will be accomodated in hotels located only a short walk away from the
@@ -37,4 +38,4 @@ station Plaza Mayor, see map page 8), or taxi (20 mn, 25e). From there, you can 
 the Alcazaba, which is a smaller version of the famous Alhambra of Granada. You can also
 visit one of the many Malaga's museums:
 
-![Arcachon](/assets/img/arcachon.jpg)
+
