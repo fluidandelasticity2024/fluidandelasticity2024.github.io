@@ -11,12 +11,12 @@ the beachfront, in the seaside resort of Arcachon, France. Participants will be 
 a short walk (2 mn ...) away from the conference center.
 
 **How to get there** - The city of Arcachon is serviced by a direct train line from Bordeaux (Bordeaux St Jean train station)
-that runs every hour (12.20 €)
+that runs every hour (one way ticket 12.20 €).
 
-There are three ways to reach the train station of Bordeaux Siant Jean from the airport.
-- By taxi
+There are three ways to reach the train station of Bordeaux Siant Jean from the Bordeaux/Mérignac airport.
 - By tramway
 - By Bus
+- By taxi
 
 **Registration** - Registration will take place in the entrance hall of Palais des Congrès and will start
 on Monday 17th of June, 8:30. A nominative badge, a paper version of the scientic programme
