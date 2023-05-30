@@ -14,7 +14,7 @@ a short walk (2 mn ...) away from the conference center.
 that runs every hour (one way ticket 12.20 €). Train tickets from Bordeaux to Arcachon can be purchased <a href="https://www.ter.sncf.com/nouvelle-aquitaine/trajet-bordeaux-arcachon"> online here </a>.
 
 *From Bordeaux/Mérignac airport to Bordeaux Saint-Jean train station* - There are three ways to reach the train station of Bordeaux Saint-Jean from the Bordeaux/Mérignac airport:
-- By tramway
+- By tramway: the tram station *Aéroport Mérignac* (line A) is located is front of the arrivals area. Tram tickets can be purchased on the automatic ticket vending machines available at the airport tram station. From the airport, the tram line A does not go directly to the train station ; take tram line C to the Saint-Jean train station at the connecting tram station *Porte de Bourgogne* (details of the route <a href="https://www.infotbm.com/fr/itineraires/resultat/route-0?from_type=stop_area&from=stop_area%3ATBT%3ASA%3ATAEROPO&to_type=stop_area&to=stop_area%3ATBT%3ASA%3ATSJEAN&departure=true&date=20230530T104905&transports=commercial_mode%3ATramway%2Ccommercial_mode%3ABus%2Ccommercial_mode%3AFerry&wheelchair=false"> here </a>).
 - By Bus
 - By taxi
 
