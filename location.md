@@ -37,8 +37,16 @@ and a USB key containing a full electronic version of the booklet (including abs
 Lunches will be served at the restaurant of the Palais des Congrès at 12:30 and participants
 will be free to enjoy the beach till 16:00 everyday.
 
-## Eat & drink 
+## Eat & drink
+There are many restaurants in Arcachon, most of them being located on the bay beach (*la Plage du Bassin*), just a stone throw from the hotels.
+You will find a wide choice of restaurant, ranging from pizzerias to sea food restaurants. Here are some good places you can try:
+- *Pizza Nofa Arcachon*, 25 Boulevard du Général Leclerc, Tel.: +33 (0)6 99 20 00 33
+- *La Cabane du Breton* (crèpes & galettes), 4 Rue Maréchal de Lattre de Tassigny, Tel.: +33 (0)6 37 13 69 51
+- *La Saison 3* (sea food), 21 Rue du Maréchal de Lattre de Tassigny, Tel.: +33 (0) 5 56 83 24 05
+- *Le Bistro'chon Arcachon* (cuisine française), 29 Rue du Maréchal de Lattre de Tassigny, Tel.: +33 (0)5 56 83 08 44
 
-## Going to the Oceanside - Sailing to the Cap Ferret and "L'Ile aux Oiseaux"**
+## Visiting the surroundings
+**the Going to the Oceanside** - 
+**Sailing to the Cap Ferret and "L'Ile aux Oiseaux"** -
 
 
