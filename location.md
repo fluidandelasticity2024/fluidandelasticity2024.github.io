@@ -35,7 +35,7 @@ and a USB key containing a full electronic version of the booklet (including abs
 
 ## Lunches
 Lunches will be served at the restaurant of the Palais des Congrès at 12:30 and participants
-will be free to enjoy the beach till 16:00 everyday.
+will be free to enjoy the beach till 16:00 everyday. Additionnal information will be provided in due time.
 
 ## Eat & drink
 There are many restaurants in Arcachon, most of them being located on the bay beach (*la Plage du Bassin*), just a stone throw from the hotels.
