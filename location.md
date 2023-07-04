@@ -10,7 +10,7 @@ The conference will take place in the Palais des Congrès d'Arcachon located on
 the beachfront, in the seaside resort of Arcachon, France. Participants will be accomodated in hotels located only
 a short walk (2 mn ...) away from the conference center.
 
-##How to get there##
+## How to get there
 
 The city of Arcachon is serviced by a direct train line from Bordeaux (Bordeaux Saint-Jean train station)
 that runs every hour (one way ticket 12.20 €). Train tickets from Bordeaux to Arcachon can be purchased <a href="https://www.ter.sncf.com/nouvelle-aquitaine/trajet-bordeaux-arcachon"> online </a>.
