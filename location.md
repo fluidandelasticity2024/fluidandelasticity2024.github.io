@@ -25,6 +25,7 @@ However, if you have to travel to Bordeaux by plane (arrival at Bordeaux Mérign
 The participants will be accommodated in two hotels located very close to the Palais des Congrès (and very close to each other as well) :
 - **L'Hôtel de la plage**, 10 Av. Nelly Deganne, 33120 Arcachon, Tel.: +33 (0)5 56 83 06 23, e-mail: infos@hotelarcachon.com
 - **L'Hôtel B d'Arcachon**, 4 rue du Professeur Jolyet, 33120 Arcachon, Tel.: +33 (0)5 56 83 99 91, e-mail: reservations@hotel-b-arcachon.com
+  
 Participants will be given their hotel and room number upon registration. The room keys will be collected at the reception desk of each hotel.
 
 ## Registration
