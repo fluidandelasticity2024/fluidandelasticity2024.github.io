@@ -51,9 +51,11 @@ You will find a wide choice of restaurant, ranging from pizzerias to sea food re
 **Going to the Oceanside and the Dune du Pilat** - The Palais des Congrès and the hotels are located in front of the bay, but the other side of the town (a neighbourhood named Le Moulleau)
 faces the Cap-Ferret and the Ocean. If you push a bit further south, you will reach the highest sans dune in Europe: the Dune du Pilat. You can get easily to both places by means of the local bus lines 
 (ligne 3 and ligne 101, bus schedules **<a href="https://www.bassin-arcachon-info.com/dune-du-pilat-arcachon-baia1/"> here </a>**).
+
 **Sailing to the Cap Ferret** - 
+
 **Sailing to "L'Ile aux Oiseaux"** - L'Ile aux Oiseaux (Birds' Island) can be visited in a thousand different ways. The most common, however, is the guided tour by boat.
-Many service providers offer tickets to get to l'Ile aux Oiseaux. Tickets may be booked in advance (recommended) on the **<a href="https://bateliers-arcachon.com/">** website of the 
-"Union des bateliers Arcachonnais" </a> or directly purchased on the pier of Arcachon, near the hotel (single tour without stopover, 2 h: 24€; single tour with a stopover at the Cap Ferret, 2 h: 31€) 
+Many service providers offer tickets to get to l'Ile aux Oiseaux. Tickets may be booked in advance (recommended) on the **<a href="https://bateliers-arcachon.com/"> website of the 
+"Union des bateliers Arcachonnais" </a>** or directly purchased on the pier of Arcachon, near the hotel (single tour without stopover, 2 h: 24€; single tour with a stopover at the Cap Ferret, 2 h: 31€) 
 
 
