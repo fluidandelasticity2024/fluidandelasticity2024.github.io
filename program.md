@@ -4,7 +4,7 @@ title: Scientific programme
 permalink: /program/
 ---
 
-# Preliminary information
+# Scientific programme
 The complete programme of the conference will be avavilable after the abstract submission period (March 2024).
 
 ## Invited speakers
