@@ -22,6 +22,6 @@ A one page abstract must be uploaded on the conference management system no late
 August 1 2024. Abstracts will be used by the organisation committee for selecting the oral presentations.
 The booklet of abstracts will be published electronically on the conference website. For the conference attendant's convenience, 
 a smaller booklet containing the scientific programme and the titles of the oral presentations will be provided on a USB drive.
-The abstarct template can be uploaded here.
+The abstract template can be uploaded here.
 
 ![Arcachon](/assets/img/terrasse.jpg)
