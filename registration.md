@@ -6,4 +6,4 @@ permalink: /registration/
 
 # Registration
 
-![Arcachon](/assets/img/arcachon.jpg)
+![Arcachon](/assets/img/plage_oceane.jpg)
