@@ -48,10 +48,6 @@ You will find a wide choice of restaurant, ranging from pizzerias to sea food re
 - *Ko-Sometsuke 2K* (fusion asian food), 156 Boulevard de la Plage, Tel.: +33 (0)5 56 83 67 69
 
 ## Visiting the surroundings
-**Going to the Oceanside and the Dune du Pilat** - The Palais des Congrès and the hotels are located in front of the bay, but the other side of the town (a neighbourhood named Le Moulleau)
-faces the Cap-Ferret. If you push a bit further south, you will reach the highest sans dune in Europe - the Dune du Pilat - and eventually the Ocean beaches (plage de la Salie etc). You can get easily to both places
-by means of the local bus lines (ligne 3 and ligne 101, 1.70 €, bus schedules **<a href="https://www.bassin-arcachon-info.com/dune-du-pilat-arcachon-baia1/"> here </a>**).
-
 **Sailing to the Cap Ferret** - It is worth spending an evening in the Cap-Ferret, a small town located at the end of a peninsula, on the other side of the bay.
 There you will be able to visit the old town and enjoy oisters and a glass of white wine or tapas on a terrace right by the see.
 To go there, you will have to get on a "pinasse", a typical boat of the Arcachon bay. Tickets may be booked in advance (recommended) on the **<a href="https://bateliers-arcachon.com/"> website  </a>** 
@@ -61,5 +57,10 @@ of the "Union des bateliers Arcachonnais" or directly purchased on the Thiers pi
 Many service providers offer tickets to get to l'Ile aux Oiseaux. Again, tickets can be purchased on the **<a href="https://bateliers-arcachon.com/"> website  </a>** 
 of the "Union des bateliers Arcachonnais" or directly on the Thiers pier (single tour without stopover, 2 h: 24 €; single tour with a stopover
 at the Cap Ferret, 2 h: 31 €). 
+
+**Going to the Oceanside and the Dune du Pilat** - The Palais des Congrès and the hotels are located in front of the bay, but the other side of the town (a neighbourhood named Le Moulleau)
+faces the Cap-Ferret. If you push a bit further south, you will reach the highest sans dune in Europe - the Dune du Pilat - and eventually the Ocean beaches (plage de la Salie etc). You can get easily to both places
+by means of the local bus lines (ligne 3 and ligne 101, 1.70 €, bus schedules **<a href="https://www.bassin-arcachon-info.com/dune-du-pilat-arcachon-baia1/"> here </a>**).
+
 
 
