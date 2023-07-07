@@ -8,7 +8,7 @@ permalink: /program/
 The complete programme of the conference will be available one month before the conference starting date.
 
 ## Invited speakers
-Plenary presentations (40 mn) will be given by five invited speakers:
+Plenary presentations (40 mn) will be given by:
 - **Anne-Laure Biance** (ILM Lyon, FR)
 - **Pierre-Thomas Brun** (Princeton, USA)
 - **Alain Goriely** (Oxford, UK)
