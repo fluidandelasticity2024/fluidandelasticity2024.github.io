@@ -9,10 +9,10 @@ The complete programme of the conference will be available after the abstract su
 
 ## Invited speakers
 Plenary presentations (40 mn) will be given by:
-- Anne-Laure Biance (ILM Lyon, FR)
-- Pierre-Thomas Brun (Princeton, USA)
-- Alain Goriely (Oxford, UK)
-- Marco Polin (Warwick, UK / IMEDEA, SP)
-- Sophie Ramananarivo (École Polytechnique, FR)
+- **Anne-Laure Biance** (ILM Lyon, FR)
+- **Pierre-Thomas Brun** (Princeton, USA)
+- **Alain Goriely** (Oxford, UK)
+- **Marco Polin** (Warwick, UK / IMEDEA, SP)
+- **Sophie Ramananarivo** (École Polytechnique, FR)
   
 ![Arcachon](/assets/img/dune_du_pilat.jpg)
