@@ -14,12 +14,5 @@ Plenary presentations (40 mn) will be given by:
 - Alain Goriely (Oxford, UK)
 - Marco Polin (Warwick, UK / IMEDEA, SP)
 - Sophie Ramananarivo (École Polytechnique, FR)
-
-## Organizing committee
-- Thomas Bickel (Univ Bordeaux, FR)
-- Christophe Eloy (IRPHE, Centrale Méditerranée, FR)
-- Eric Lauga (DAMTP, Univ of Cambridge, UK)
-- Sébastien Michelin (École Polytechnique, FR)
-- François Nadal (CEA Bordeaux, FR)
-
+- 
 ![Arcachon](/assets/img/arcachon.jpg)
