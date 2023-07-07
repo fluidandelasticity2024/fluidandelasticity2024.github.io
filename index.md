@@ -26,10 +26,10 @@ Experimental, numerical and theoretical presentations will be given on problems 
 - Viscoelastic media
 
 ## Important dates
-- Abstract submission deadline: 15 February 2024
-- Notification of acceptance: 15 March  2024
-- Early registration deadline: 15 April 2024
-- Conference dates: 17-19 June 2024
+**- Abstract submission deadline**: 15 February 2024
+**- Notification of acceptance**: 15 March  2024
+**- Early registration deadline**: 15 April 2024
+**- Conference dates**: 17-19 June 2024
 
 ## Organizing committee
 - Thomas Bickel (Univ Bordeaux, FR)
