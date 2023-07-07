@@ -15,4 +15,4 @@ Plenary presentations (40 mn) will be given by:
 - Marco Polin (Warwick, UK / IMEDEA, SP)
 - Sophie Ramananarivo (École Polytechnique, FR)
   
-![Arcachon](/assets/img/arcachon.jpg)
+![Arcachon](/assets/img/dune_du_pilat.jpg)
