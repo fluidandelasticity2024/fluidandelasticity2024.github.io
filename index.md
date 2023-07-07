@@ -30,3 +30,10 @@ Experimental, numerical and theoretical presentations will be given on problems 
 - Notification of acceptance: 15 March  2024
 - Early registration deadline: 15 April 2024
 - Conference dates: 17-19 June 2024
+
+## Organizing committee
+- Thomas Bickel (Univ Bordeaux, FR)
+- Christophe Eloy (IRPHE, Centrale Méditerranée, FR)
+- Eric Lauga (DAMTP, Univ of Cambridge, UK)
+- Sébastien Michelin (École Polytechnique, FR)
+- François Nadal (CEA Bordeaux, FR)
