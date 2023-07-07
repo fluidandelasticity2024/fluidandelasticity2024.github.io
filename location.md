@@ -50,8 +50,8 @@ You will find a wide choice of restaurant, ranging from pizzerias to sea food re
 
 ## Visiting the surroundings
 **Sailing to the Cap Ferret** - It is worth spending an evening in the Cap-Ferret, a small town located at the end of a peninsula, on the other side of the bay.
-There you will be able to visit the old town and enjoy oisters and a glass of white wine or tapas on a terrace right by the see.
-To go there, you will have to get on a "pinasse", a typical boat of the Arcachon bay. Tickets may be booked in advance (recommended) on the **<a href="https://bateliers-arcachon.com/"> website  </a>** 
+There, you will be able to visit the old town and enjoy oisters, a glass of white wine, or tapas on a terrace right by the sea.
+To go to the Cap Ferret, you will have to sail on a "pinasse", a typical boat of the Arcachon bay. Tickets may be booked in advance (recommended) on the **<a href="https://bateliers-arcachon.com/"> website  </a>** 
 of the "Union des bateliers Arcachonnais" or directly purchased on the Thiers pier, nearby the Hotel de la plage (return ticket: 20 €)
 
 **Sailing to "L'Ile aux Oiseaux"** - L'Ile aux Oiseaux (Birds' Island) can be visited in a thousand different ways. The most common, however, is the guided tour by boat.
