@@ -18,7 +18,7 @@ Experimental, numerical and theoretical pre- sentations will be given on the fol
 - Viscoelastic media
 
 ## Abstract template - LaTeX files
-A one page abstract must be uploaded on the conference management system no later than February 15 2024. **The abstract repository will be opened from
+A one page abstract must be uploaded on the conference management system **no later than February 15 2024**. **The abstract repository will be opened from
 August 1 2024**. Abstracts will be used by the organisation committee for selecting the oral presentations.
 The booklet of abstracts will be published electronically on the conference website. For the conference attendant's convenience, 
 a smaller booklet containing the scientific programme and the titles of the oral presentations will be provided on a USB drive.
