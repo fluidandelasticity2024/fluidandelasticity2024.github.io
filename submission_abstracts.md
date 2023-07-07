@@ -17,4 +17,6 @@ Experimental, numerical and theoretical pre- sentations will be given on the fol
 - Swimming of microorganisms
 - Viscoelastic media
 
-![Arcachon](/assets/img/arcachon.jpg)
+## Abstract template - LaTeX files
+
+![Arcachon](/assets/img/terrasse.jpg)
