@@ -14,5 +14,5 @@ Plenary presentations (40 mn) will be given by:
 - Alain Goriely (Oxford, UK)
 - Marco Polin (Warwick, UK / IMEDEA, SP)
 - Sophie Ramananarivo (École Polytechnique, FR)
-- 
+  
 ![Arcachon](/assets/img/arcachon.jpg)
