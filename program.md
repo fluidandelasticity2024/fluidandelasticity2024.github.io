@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 # Scientific programme
-The complete programme of the conference will be available after the abstract submission period, once the acceptance of the abstact is notified (March 2024).
+The complete programme of the conference will be available one month after the abstract submission deadline (March 2024).
 
 ## Invited speakers
 Plenary presentations (40 mn) will be given by:
