@@ -5,7 +5,7 @@ permalink: /registration/
 ---
 
 # Registration
-Registration will be open from **April 15 2024**. Two options will be available :
+Registration will be open from **April 15, 2024**. Two options will be available :
 - **single bedroom : 665 €** (all included except evening meal left at the participant's expense)
 - **double bedroom : 865 €** (all included except evening meal left at the participant's expense) 
 
