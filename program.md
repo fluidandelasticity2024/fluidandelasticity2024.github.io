@@ -16,3 +16,4 @@ Plenary presentations (40 mn) will be given by:
 - **<a href="https://scholar.google.com/citations?user=fwqI3vEAAAAJ">Sophie Ramananarivo</a>** (École Polytechnique, FR)
   
 ![Arcachon](/assets/img/dune_du_pilat.jpg)
+*Dune du Pilat*
