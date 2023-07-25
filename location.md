@@ -19,8 +19,7 @@ However, wether you land in Paris (Roissy-Charle de Gaulle international airport
 
 **From Paris to Bordeaux Saint-Jean train station (if you land at Roissy-Charles de Gaulle international airport)** - There is a direct train line 
 from Roissy-Charles de Gaulle international airport (TGV train station) to Bordeaux Saint-Jean train station.
-(duration 3h45, from 120 €). A direct train line also connects Paris-Montparnasse train station (Paris *intra muros*) to Bordeaux Saint-Jean
-train station (one train leaving Paris-Montparnasse every hour, duration 2h05, from 105 €). Train tickets can be purchased 
+(duration 3h45, from 120 €). Train tickets can be purchased 
 on the **<a href="https://www.sncf-connect.com/app/home/search"> SNCF website </a>**. 
 
 **From Bordeaux/Mérignac airport to Bordeaux Saint-Jean train station (if you land directly at Bordeaux-Mérignac airport)** - 
