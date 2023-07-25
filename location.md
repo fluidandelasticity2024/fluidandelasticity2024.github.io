@@ -6,6 +6,7 @@ permalink: /location/
 
 # Location and practical information
 ![Arcachon](/assets/img/Palais_des_Congres.jpg)
+*Palais des Congrès, Arcachon*
 
 The conference will take place in the Palais des Congrès d'Arcachon located on
 the beachfront, in the seaside resort of Arcachon, France. Participants will be accomodated in hotels located only
