@@ -30,7 +30,7 @@ There are three ways to reach the Bordeaux Saint-Jean train station from the Bor
 **<a href="https://www.infotbm.com"> here</a>**).
 - *By taxi (30 mn)*: from the airport, taxi services to the train station are available. Fares can fluctuate from 50 to 150 €, depending on the date and time.
 
-## Hôtels 
+## Hotels 
 The participants will be accommodated in two hotels located very close to the Palais des Congrès (and very close to each other as well) :
 - **<a href="https://www.hotelarcachon.com">Hôtel de la plage</a>**, 10 Av. Nelly Deganne, 33120 Arcachon, Tel.: +33 (0)5 56 83 06 23, e-mail: infos@hotelarcachon.com
 - **<a href="https://www.hotel-b-arcachon.com">Hôtel B d'Arcachon</a>**, 4 rue du Professeur Jolyet, 33120 Arcachon, Tel.: +33 (0)5 56 83 99 91, e-mail: reservations@hotel-b-arcachon.com
