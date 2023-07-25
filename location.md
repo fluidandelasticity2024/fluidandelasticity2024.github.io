@@ -55,6 +55,9 @@ You will find a wide choice of restaurant, ranging from pizzerias to sea food re
 - *La Saison 3* (sea food), 21 Rue du Maréchal de Lattre de Tassigny, Tel.: +33 (0) 5 56 83 24 05
 - *Le Bistro'chon Arcachon* (cuisine française), 29 Rue du Maréchal de Lattre de Tassigny, Tel.: +33 (0)5 56 83 08 44
 - *Ko-Sometsuke 2K* (fusion asian food), 156 Boulevard de la Plage, Tel.: +33 (0)5 56 83 67 69
+- 
+![Arcachon](/assets/img/jetee_Thiers.jpg)
+*Jetée Thiers, Arcachon*
 
 ## Visiting the surroundings
 **Sailing to the Cap Ferret** - It is worth spending an evening in the Cap-Ferret, a small town located at the end of a peninsula, on the other side of the bay.
