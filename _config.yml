@@ -22,7 +22,7 @@ title: Fluid and Elasticity 2024
 logo: /assets/img/log_FE_SoCal.jpg
 show_downloads: false
 # email: christopheloy@gmail.com
-description: >- # this means to ignore newlines until "baseurl:" June 17 – 19, 2024, Arcachon, France
+description: June 17 – 19, 2024, Arcachon, France >- # this means to ignore newlines until "baseurl:" June 17 – 19, 2024, Arcachon, France
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fluidandelasticity2024
