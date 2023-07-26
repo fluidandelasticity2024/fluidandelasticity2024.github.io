@@ -15,7 +15,7 @@ This will be the fifth edition of the ‘Fluid & Elasticity’ conference series
 <a href="https://www.irphe.fr/~fe15/">Biarritz</a> (2015), and
 <a href="https://fluidelasticity2019.wordpress.com"> Málaga</a> (2019).
 
-The upcoming edition will be held in the coastal city of **Arcachon, France**. It will take place over two and a half days (June 17-19, 2024) and will consist of single plenary sessions with five invited lectures (40 minutes) and about 40 selected oral presentations (20 minutes), with ample time outside the formal sessions for participants to meet in a convivial atmosphere.
+The upcoming edition will be held in the coastal town of **Arcachon, France**. It will take place over two and a half days (June 17-19, 2024) and will consist of single plenary sessions with five invited lectures (40 minutes) and about 40 selected oral presentations (20 minutes), with ample time outside the formal sessions for participants to meet in a convivial atmosphere.
 
 ![Arcachon](/assets/img/ileoiseaux.jpg)
 *Cabanes tchanquées, Arcachon*
