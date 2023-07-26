@@ -66,8 +66,8 @@ of the "Union des bateliers Arcachonnais" or directly purchased on the Thiers pi
 
 **Sailing to "L'Ile aux Oiseaux"** - L'Ile aux Oiseaux (Birds' Island) can be visited in a thousand different ways. The most common, however, is the guided tour by boat.
 Many service providers offer tickets to get to l'Ile aux Oiseaux. Again, tickets can be purchased on the **<a href="https://bateliers-arcachon.com/"> website  </a>** 
-of the "Union des bateliers Arcachonnais" or directly on the Thiers pier (single tour without stopover, 2 h: 24 €; single tour with a stopover
-at the Cap Ferret, 2 h: 31 €). 
+of the "Union des bateliers Arcachonnais" or directly on the Thiers pier (single tour without stopover, 2 h, 24 €; single tour with a stopover
+at the Cap Ferret, 2 h, 31 €). 
 
 **Going to the Oceanside and the Dune du Pilat** - The Palais des Congrès and the hotels are located in front of the bay, but the other side of the town (a neighbourhood named Le Moulleau)
 faces the Cap-Ferret. If you push a bit further south, you will reach the highest sans dune in Europe - the Dune du Pilat - and eventually the Ocean beaches (plage de la Salie etc). You can get easily to both places
