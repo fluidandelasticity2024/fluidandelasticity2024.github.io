@@ -10,7 +10,7 @@ permalink: /
 The objective of the conference is to bring together researchers from different communities (applied mathematics, biomechanics, fluid mechanics, physics) working on fundamental problems involving coupling between a fluid and a deformable body. Contributions of work in progress or completed are welcome.
 
 This will be the fifth edition of the ‘Fluid & Elasticity’ conference series. The previous conferences were held in
-<a href="https://www.irphe.fr/~fe09/">Carry-le-Rouet</a> (2009),
+<a href="https://www.irphe.fr/~fe09/" target="_blank"> Carry-le-Rouet</a> (2009),
 <a href="https://www.ljshoreshotel.com">La Jolla</a> (2012),
 <a href="https://www.irphe.fr/~fe15/">Biarritz</a> (2015), and
 <a href="https://fluidelasticity2019.wordpress.com"> Málaga</a> (2019).
