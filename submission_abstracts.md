@@ -24,7 +24,7 @@ Abstracts will be used by the scientific committee to select oral presentations.
 A booklet of abstracts will be published electronically on the conference website. For the conference attendants' convenience, a smaller booklet containing the scientific programme and the titles of the oral presentations will be provided on a USB drive.
 
 <p align="center">
-# <a href="https://fluidandelasticity2024.com/"> ABSTRACT SUBMISSION PLATFORM </a>
+<a href="https://fluidandelasticity2024.com/"> ABSTRACT SUBMISSION PLATFORM </a>
 </p>
 
 
