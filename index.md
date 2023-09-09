@@ -12,7 +12,7 @@ The objective of the conference is to bring together researchers from different 
 This will be the fifth edition of the ‘Fluid & Elasticity’ conference series. The previous conferences were held in
 **<a href="https://www.irphe.fr/~fe09/" target="_blank"> Carry-le-Rouet</a>** (2009),
 **<a href="https://www.ljshoreshotel.com" target="_blank">La Jolla</a>** (2012),
-**<a href="https://www.irphe.fr/~fe15/ "target="_blank">Biarritz</a>** (2015), and
+**<a href="https://www.irphe.fr/~fe15/" target="_blank">Biarritz</a>** (2015), and
 **<a href="https://fluidelasticity2019.wordpress.com" target="_blank">** Málaga</a> (2019).
 
 The upcoming edition will be held in the coastal town of **Arcachon, France**. It will take place over two and a half days (June 17-19, 2024) and will consist of single plenary sessions with five invited lectures (40 minutes) and about 40 selected oral presentations (20 minutes), with ample time outside the formal sessions for participants to meet in a convivial atmosphere.
