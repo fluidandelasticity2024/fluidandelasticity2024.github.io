@@ -6,4 +6,4 @@ permalink: /Contact/
 
 # Contact e-mail address
 Future participants are welcome to contact the organising committee for any question at
-**<a href="contact@fluidandelasticity2024.com"> contact@fluidandelasticity2024.com </a>**
+[contact@fluidandelasticty2024.com](mailto:contact@fluidandelasticty2024.com).
