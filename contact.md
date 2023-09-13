@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /location/
+permalink: /Contact/
 ---
 
 # Contact e-mail address
