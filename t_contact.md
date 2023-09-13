@@ -5,4 +5,4 @@ permalink: /Contact/
 ---
 
 # Contact e-mail address
-**<a href="contact@fluidandelasticity2024.com" target="_blank"> contact@fluidandelasticity2024.com </a>**
+**<a href="contact@fluidandelasticity2024.com" target="_blank"> contactfluidandelasticity2024.com </a>**
