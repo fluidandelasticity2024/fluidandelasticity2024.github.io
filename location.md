@@ -39,7 +39,7 @@ Participants will be given their hotel and room number upon registration. The ro
 
 ## Registration
 Registration will take place in the entrance hall of Palais des Congrès and will start
-on Sunday 17th of June, 4:30pm. A nominative badge, a paper version of the scientific programme (if requested in advance), 
+on Sunday 16th of June, 4:30pm. A nominative badge, a paper version of the scientific programme (if requested in advance),
 and a USB key containing a full electronic version of the booklet (including abstracts), will be issued to the participants upon registration.
 
 ## Lunches
