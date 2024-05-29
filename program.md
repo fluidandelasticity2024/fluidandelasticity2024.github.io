@@ -5,7 +5,7 @@ permalink: /program/
 ---
 
 # Scientific programme
-The complete programme of the conference will be available one month before the conference starting date.
+The complete programme of the conference can now be downloaded **<a href="/assets/pdf/booklet_FE24_full_version.pdf" download> here </a>**.
 
 ## Schedule
 The talks will start at 9:00 and finish at 19:00 on Monday and Tuesday. The last talk will finish at 13:00 on Wednesday. There will be ample time during the lunch break to discuss and enjoy the beachfront.
