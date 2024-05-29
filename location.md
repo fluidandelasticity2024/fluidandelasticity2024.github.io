@@ -11,7 +11,7 @@ permalink: /location/
 The conference will take place in the Palais des Congrès d'Arcachon located on
 the beachfront, in the seaside resort of Arcachon, France. Participants will be accomodated in hotels located only a short walk away from the conference center.
 
-You can find practical information assembled in a booklet **<a href="/assets/pdf/booklet_FE24_short_version.pdf" download> here </a>**.
+You can find practical information assembled in a booklet **<a href="/assets/pdf/booklet_FE24_short_version.pdf" download>here</a>**.
 
 ## How to get there
 The city of Arcachon is serviced by a direct train line from Bordeaux (Bordeaux Saint-Jean train station)
